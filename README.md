@@ -1,7 +1,7 @@
 # Heizal Jose
 🌐[LinkedIn](https://www.linkedin.com/in/heizaljose)
 
-📧[Gmail](heizaljose@gmail.com)
+📧(heizaljose@gmail.com)
 
 ## About Me 💼
 Passionate Data Analyst skilled in turning raw data into actionable insights through manipulation, analysis, and visualization. Experienced in implementing regression algorithms, conducting data partitioning, and evaluating regression metrics for model optimization. Contributed to research on socioeconomic impacts and conducted primary data collection and analysis. Holds a Post Graduate Certificate in Management with a focus on Data Science in Financial Markets, an M.Phil. in Applied Economics, and an M.A. in Applied Economics.
