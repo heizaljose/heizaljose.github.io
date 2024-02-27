@@ -1,6 +1,6 @@
 # Heizal Jose
-🌐[LinkedIn](https://www.linkedin.com/in/heizaljose)
-📧[Gmail](heizaljose@gmail.com)
+-🌐[LinkedIn](https://www.linkedin.com/in/heizaljose)
+-📧[Gmail](heizaljose@gmail.com)
 
 ## About Me 💼
 
